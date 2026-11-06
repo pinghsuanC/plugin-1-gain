@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="aKTq1H" name="NewProject" projectType="audioplug" useAppConfig="0"
+<JUCERPROJECT id="aKTq1H" name="Gain-knob" projectType="audioplug" useAppConfig="0"
               addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
-  <MAINGROUP id="WB9aQZ" name="NewProject">
+  <MAINGROUP id="WB9aQZ" name="Gain-knob">
     <GROUP id="{1A3D4AA2-127A-0747-BDF5-125002B5484A}" name="Source">
       <FILE id="lI5uWv" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
